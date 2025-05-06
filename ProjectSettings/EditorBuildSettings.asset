@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/MonsterScene.unity
     guid: 73008cfddc599ef409aa6cfe3b5fc2f3
   - enabled: 1
+    path: Assets/Scenes/EndCredit.unity
+    guid: 59ec9e5ccb259794fa8b16ddf2585742
+  - enabled: 1
+    path: Assets/Scenes/MainManu.unity
+    guid: e848ca0309d7d494294f626397482e56
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: b120ed288c1620543a8465f0d1f8195c
   m_configObjects:
