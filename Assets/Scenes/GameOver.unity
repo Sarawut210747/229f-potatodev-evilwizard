@@ -328,7 +328,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2f1d66efaecb83439c48d3cf75acff0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LoadScene: NextLevel
 --- !u!1 &829134080
 GameObject:
   m_ObjectHideFlags: 0
@@ -844,7 +843,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 649404549}
         m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
-        m_MethodName: RestartGame
+        m_MethodName: Retry
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
