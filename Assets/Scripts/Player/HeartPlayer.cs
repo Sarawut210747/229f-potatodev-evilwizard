@@ -1,7 +1,9 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class HeartPlayer : MonoBehaviour
 {
+    public string sceneToLoad;
     public int Health = 3;
     public int currentHealth;
 
@@ -48,7 +50,9 @@ public class HeartPlayer : MonoBehaviour
 
     private void Die()
     {
-        Debug.Log("Player Died");
+    
+        Destroy(gameObject);
+        SceneManager.LoadScene(sceneToLoad);
         
     }
     void Update()
