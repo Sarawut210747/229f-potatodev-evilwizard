@@ -4717,13 +4717,29 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 80359119}
+    - target: {fileID: 2226236189503715416, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
+      propertyPath: m_text
+      value: 'Next
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 2542039098942594837, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3547056304136161445, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
+      propertyPath: m_text
+      value: 'Somchai
+
+'
+      objectReference: {fileID: 0}
     - target: {fileID: 4901425379374988040, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
       propertyPath: LoadScene
       value: MainManu
+      objectReference: {fileID: 0}
+    - target: {fileID: 6357474886224237033, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8877654264882078635, guid: 3956f075d3f06fe42931525cc1b9c702, type: 3}
       propertyPath: m_Pivot.x

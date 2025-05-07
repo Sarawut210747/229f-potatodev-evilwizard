@@ -332,8 +332,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1635125981}
-        m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
-        m_MethodName: RestartGame
+        m_TargetAssemblyTypeName: StartScene, Assembly-CSharp
+        m_MethodName: Scene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1129,7 +1129,6 @@ GameObject:
   - component: {fileID: 1635125975}
   - component: {fileID: 1635125974}
   - component: {fileID: 1635125979}
-  - component: {fileID: 1635125978}
   - component: {fileID: 1635125980}
   - component: {fileID: 1635125981}
   m_Layer: 5
@@ -1225,18 +1224,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &1635125978
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1635125973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dfd30ca4368bb8c4da5c46f2ce4ca697, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!225 &1635125979
 CanvasGroup:
   m_ObjectHideFlags: 0
@@ -1272,10 +1259,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1635125973}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2f1d66efaecb83439c48d3cf75acff0, type: 3}
+  m_Script: {fileID: 11500000, guid: 06803b18a736d9649acf79420d6f97f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LoadScene: SampleScene
+  nameScene: SampleScene
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

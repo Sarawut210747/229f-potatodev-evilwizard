@@ -20,7 +20,6 @@ public class Wind : MonoBehaviour
             ConstantForce2D force = collision.GetComponent<ConstantForce2D>();
             if (force != null)
                 force.force = Vector2.zero;
-                Debug.Log("afawf");
         }
     }
 }

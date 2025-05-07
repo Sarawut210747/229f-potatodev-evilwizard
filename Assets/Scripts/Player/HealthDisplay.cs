@@ -1,4 +1,3 @@
-using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
 
 public class HealthDisplay : MonoBehaviour
@@ -10,12 +9,6 @@ public class HealthDisplay : MonoBehaviour
     public Sprite fullHeart;
     public UnityEngine.UI.Image[] hearts;
     public HeartPlayer heartPlayer;
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()

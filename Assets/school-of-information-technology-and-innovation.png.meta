@@ -270,6 +270,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1584,7 +1597,66 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      school-of-information-technology-and-innovation_0: -8120193170290147499
+      school-of-information-technology-and-innovation_1: 7542636209734406393
+      school-of-information-technology-and-innovation_10: -1733947735784055679
+      school-of-information-technology-and-innovation_11: 4614567633576633168
+      school-of-information-technology-and-innovation_12: -5534282027558580655
+      school-of-information-technology-and-innovation_13: -8132882165049863814
+      school-of-information-technology-and-innovation_14: -5171263213595842081
+      school-of-information-technology-and-innovation_15: 8776650694267240846
+      school-of-information-technology-and-innovation_16: 1604009231890844497
+      school-of-information-technology-and-innovation_17: 6820537649191959182
+      school-of-information-technology-and-innovation_18: 8459554071408549142
+      school-of-information-technology-and-innovation_19: -1835941137518397544
+      school-of-information-technology-and-innovation_2: 6516270986489810127
+      school-of-information-technology-and-innovation_20: 1384067751106649759
+      school-of-information-technology-and-innovation_21: -2860403638272055906
+      school-of-information-technology-and-innovation_22: -1435699342931505965
+      school-of-information-technology-and-innovation_23: 4383057783134646834
+      school-of-information-technology-and-innovation_24: 5440259661818650218
+      school-of-information-technology-and-innovation_25: -1614370373315722349
+      school-of-information-technology-and-innovation_26: 4133451716084737182
+      school-of-information-technology-and-innovation_27: 5082246379824747260
+      school-of-information-technology-and-innovation_28: -466720736153919692
+      school-of-information-technology-and-innovation_29: -2710996295564084827
+      school-of-information-technology-and-innovation_3: 3440642540356946181
+      school-of-information-technology-and-innovation_30: -6931518756800749031
+      school-of-information-technology-and-innovation_31: 1079984287083680758
+      school-of-information-technology-and-innovation_32: -7608668427426204514
+      school-of-information-technology-and-innovation_33: 1779946082570274402
+      school-of-information-technology-and-innovation_34: -1689099955161344751
+      school-of-information-technology-and-innovation_35: 5952873082211861223
+      school-of-information-technology-and-innovation_36: -6152125108589499879
+      school-of-information-technology-and-innovation_37: -6444218688815058500
+      school-of-information-technology-and-innovation_38: 2399637076059877652
+      school-of-information-technology-and-innovation_39: 7763189993569043361
+      school-of-information-technology-and-innovation_4: -5269060123056479403
+      school-of-information-technology-and-innovation_40: -3059308044481477159
+      school-of-information-technology-and-innovation_41: 731172103981127774
+      school-of-information-technology-and-innovation_42: -98670809772458547
+      school-of-information-technology-and-innovation_43: -340649987802828238
+      school-of-information-technology-and-innovation_44: 4060975591471125788
+      school-of-information-technology-and-innovation_45: 2532277756180815734
+      school-of-information-technology-and-innovation_46: -8920638271814445700
+      school-of-information-technology-and-innovation_47: 1352122689237460313
+      school-of-information-technology-and-innovation_48: -926074284602415493
+      school-of-information-technology-and-innovation_49: 5415956704699256676
+      school-of-information-technology-and-innovation_5: 6572742215914437087
+      school-of-information-technology-and-innovation_50: -7352875975158468796
+      school-of-information-technology-and-innovation_51: -7542390739741520681
+      school-of-information-technology-and-innovation_52: 977892990753160148
+      school-of-information-technology-and-innovation_53: -4368320439148315853
+      school-of-information-technology-and-innovation_54: -7288459964201763423
+      school-of-information-technology-and-innovation_55: 2912023928702586193
+      school-of-information-technology-and-innovation_56: -6034877765419449718
+      school-of-information-technology-and-innovation_57: 9046703371530558814
+      school-of-information-technology-and-innovation_58: -6760776969502054945
+      school-of-information-technology-and-innovation_6: -7323879504014289629
+      school-of-information-technology-and-innovation_7: -8904436643126955314
+      school-of-information-technology-and-innovation_8: 1909526415729645660
+      school-of-information-technology-and-innovation_9: 9128980386270108215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
